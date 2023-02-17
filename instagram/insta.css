@@ -1,0 +1,8 @@
+p{font-size:medium;}
+body{font-family: Arial;text-align: center; margin-inline: 450px;background-color: white;}
+b{color:gray; font-size:larger; text-align: center;} 
+img{align-content: center;padding-top: 35px;padding-bottom: 10px;}
+form{height:175px}
+input{height:35px; width:310px;margin-bottom: 5px;}
+button{background-color:rgb(0, 149, 246);padding: 7px 80px 7px 80px;
+    margin: 15px;color:white;border-radius: 10px;border-color: rgb(0, 149, 246);}
